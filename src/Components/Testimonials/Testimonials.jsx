@@ -37,7 +37,7 @@ const slideBackward = () => {
                         <div className="user-info">
                             <img src={user_1} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
+                                <h3>Sarah Collins</h3>
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
@@ -53,7 +53,7 @@ const slideBackward = () => {
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one fo the best decisions I've ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.</p>
+                        <p>Deciding to pursue my education at Edusity has been an incredibly rewarding experience. The welcoming atmosphere, cutting-edge resources, and relentless commitment to academic achievement have gone beyond my wildest dreams.</p>
                     </div>
                 </li>
                 <li>
@@ -61,11 +61,11 @@ const slideBackward = () => {
                         <div className="user-info">
                             <img src={user_3} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
+                                <h3>Emma Rodgers</h3>
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one fo the best decisions I've ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.</p>
+                        <p>Selecting Edusity for my higher education has been a life-changing choice. The inclusive environment, advanced infrastructure, and unwavering pursuit of academic distinction have far surpassed my initial hopes.</p>
                     </div>
                 </li>
                 <li>
@@ -73,11 +73,11 @@ const slideBackward = () => {
                         <div className="user-info">
                             <img src={user_4} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
+                                <h3>Nicholas Cooper</h3>
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one fo the best decisions I've ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.</p>
+                        <p>Opting to enroll at Edusity has proven to be a game-changer for me. The vibrant community, top-notch amenities, and dedication to scholastic brilliance have surpassed all my anticipations.</p>
                     </div>
                 </li>
             </ul>
